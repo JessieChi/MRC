@@ -1,4 +1,4 @@
-export SQUAD_DIR=../../patent_data/mrc_add_interval/
+export SQUAD_DIR=../../mrc/
 export CUDA_VISIBLE_DEVICES=0
 
 python train.py \
